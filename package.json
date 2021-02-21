@@ -6,7 +6,8 @@
   "author": "KishorPokharel",
   "license": "MIT",
   "scripts": {
-  	"dev": "nodemon server.js"
+  	"dev": "nodemon server.js", 
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1"
