@@ -1,0 +1,14 @@
+{
+  "name": "remote-code-execution",
+  "version": "1.0.0",
+  "description": "A very unsecure Remote Code Execution Platform",
+  "main": "server.js",
+  "author": "KishorPokharel",
+  "license": "MIT",
+  "scripts": {
+  	"dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
